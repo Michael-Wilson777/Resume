@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap");
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.resume-header {
+    background-color: #ACD68B;
+}
+
+.city {
+    font-size: .75rem;
+}
+.email {
+    font-size: .5rem;
+}
+.summary-head {
+    font-family: Lobster, cursive, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
+.summary {
+    font-size: .85rem;
+}
+.work-head {
+    background-color: #ACD68B;
+}
+.job-name {
+    font-size: .70rem
+}
+.dates {
+    font-size: .75rem;
+    font-style: italic;
+}
+li {
+    font-size: .85rem;
+}
